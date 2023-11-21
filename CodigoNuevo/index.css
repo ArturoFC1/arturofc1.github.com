@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+}
+.nav-nav{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    background-color: rgb(196, 104, 75);
+    width: 100%;
+    height: auto;
+    justify-content: end;
+}
+.nav-nav a{
+    text-decoration: none;
+    padding: 40px;
+    color: white;
+    
+}
+.nav-nav a:hover{
+    color: black;
+    text-decoration: underline 5px red;
+}
+.contenido-nuevo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+.imgC{
+    padding: 30px;
+    width: 600px;
+    height: 400px;
+}
