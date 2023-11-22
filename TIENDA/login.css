@@ -1,9 +1,44 @@
+
 header{
     text-align: center;
+    background-color: rgb(209, 216, 214);
+    padding: 5px 0px 2px 2px;
+    margin: 10px 5px 1px 5px;
+    border-color: black;
+    border-radius: 30px;
+    border-style: solid;
+}
+.imga{
+    border-radius: 40px;
+    width: 200px;
 }
 section{
+    border-color: black;
+    border-radius: 30px;
+    border-style: solid;
     text-align: center;
+    background-color: rgb(183, 233, 215);
+    padding: 5% 0px 10% 2px;
+    margin: 5px 5px 5px 5px;
+    
+
 }
+
+footer{
+    background-color: rgb(209, 216, 214);
+    padding: 5px 0px 2px 2px;
+    margin: 10px 5px 1px 5px;
+    border-color: black;
+    border-radius: 30px;
+    border-style: solid;
+}
+
+.redes{
+    text-align: right;
+    margin: 5px;
+    padding: 1px 5px 5px 5px;
+}
+
 
 
 
