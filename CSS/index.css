@@ -1,0 +1,19 @@
+*{
+    font-family: ar;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 200;
+    background-color: bisque;
+    border-radius: 15px;
+    padding: 15px 0;
+}
+main{
+    text-align: center;
+}
+main a{
+    padding: 0 40px 0 0 ;
+
+}           
+form{
+    margin: 300px;
+}
